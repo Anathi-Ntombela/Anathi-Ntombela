@@ -1,25 +1,159 @@
-<!-- HERO --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:F8BBD0&height=200&section=header&text=DarkModeDev&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-Anathi Ntombela
-Full-Stack Software Engineer · AI · Cybersecurity · Cloud
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=650&lines=Building+practical+digital+products;Exploring+AI+%26+intelligent+systems;Learning+cybersecurity+%26+cloud;Turning+ideas+into+working+software" /> <br> <a href="https://github.com/Anathi-Ntombela"> <img src="https://img.shields.io/badge/GitHub-Anathi--Ntombela-181717?style=flat-square&logo=github" /> </a> <a href="https://www.linkedin.com/in/anathi-ntombela/"> <img src="https://img.shields.io/badge/LinkedIn-Anathi%20Ntombela-0A66C2?style=flat-square&logo=linkedin" /> </a> <a href="mailto:mthon@live.co.za"> <img src="https://img.shields.io/badge/Email-mthon%40live.co.za-EF93C4?style=flat-square&logo=gmail&logoColor=white" /> </a> </div>
-About
+# Building in public
 
-I'm an entry-level Full-Stack Software Engineer focused on building practical, secure, and intelligent software.
+<div align="center">
 
-My work sits at the intersection of:
+# DarkModeDev
 
-Software Engineering
-Artificial Intelligence
-Cybersecurity
-Cloud Computing
-Data & Automation
+### Software Engineer · Builder · Technical Founder
 
-I learn primarily by building, experimenting with new technologies, and turning ideas into working systems.
+<p>
+  <em>Building practical software at the intersection of engineering, AI, cybersecurity, and cloud.</em>
+</p>
 
-Build with purpose. Learn continuously. Keep moving forward.
+<p>
+  <a href="https://github.com/Anathi-Ntombela">
+    <img src="https://img.shields.io/badge/GitHub-Anathi--Ntombela-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/anathi-ntombela/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anathi%20Ntombela-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:mthon@live.co.za">
+    <img src="https://img.shields.io/badge/Email-mthon%40live.co.za-EF93C4?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8" />
+</div>
+
+---
+
+## The point of view
+
+> **Code. Secure. Ship. Repeat.**
+
+I'm an entry-level full-stack software engineer who learns by building.
+
+My work explores:
+
+- Full-stack software engineering
+- AI & intelligent systems
+- Cybersecurity
+- Cloud computing
+- Automation
+- Data-driven products
+
+*Small, useful work over vague claims.*
+
+---
+
+## What I'm building
+
+I'm interested in turning ideas into working products — from early prototypes to systems with real users, real constraints, and real security considerations.
+
+### Current direction
+
+**Software Engineering**  
+Building modern web applications, APIs, backend systems, and data-driven platforms.
+
+**AI & Intelligent Systems**  
+Exploring AI assistants, intelligent automation, and AI-enabled products.
+
+**Cybersecurity & Cloud**  
+Learning how secure software, cloud infrastructure, and security operations fit together.
+
+---
+
+## Products and proof
+
+<table>
+<tr>
+<td width="32%">
+
+<b>🏥 HealthConnect AI</b>
+
+</td>
+<td>
+
+Offline-first healthcare platform concept.
+
+<br>
+<sub>React · TypeScript · Express · PostgreSQL</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>🛡️ Network Security Auditing Tool</b>
+
+</td>
+<td>
+
+Automated security scanning, vulnerability analysis, and reporting.
+
+<br>
+<sub>Python · Security · APIs · Data Analysis</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>🎓 Adaptive Academic OS</b>
+
+</td>
+<td>
+
+Adaptive learning platform combining academic data, analytics, and personalised learning.
+
+<br>
+<sub>React · TypeScript · PostgreSQL · AI</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>🤖 AI Assistant</b>
+
+</td>
+<td>
+
+AI assistant concept exploring automation, conversational interfaces, and API integrations.
+
+<br>
+<sub>Python · AI APIs · n8n · REST APIs</sub>
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<b>⚡ LUMINA Connect</b>
+
+</td>
+<td>
+
+Civic-tech concept focused on improving electricity outage communication.
+
+<br>
+<sub>React · TypeScript · PostgreSQL · Vite</sub>
+
+</td>
+</tr>
+
+</table>
+
+---
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8" />
 
 <br><br>
 
@@ -27,45 +161,78 @@ Tech Stack
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,vscode,postman&perline=8" /> </div>
-Selected Projects
-🏥 HealthConnect AI
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,linux,git,github,vscode,postman&perline=8" />
 
-React · TypeScript · Express · PostgreSQL
+</div>
 
-An offline-first healthcare platform concept designed around accessibility and intelligent assistance.
+---
 
-🛡️ Network Security Auditing Tool
+## Momentum
 
-Python · APIs · Security · Data Analysis
+<div align="center">
 
-A security tool focused on automated scanning, vulnerability analysis, and security reporting.
+<table>
+<tr>
 
-🎓 Adaptive Academic OS
+<td align="center">
+<b>Full-Stack</b>
+<br>
+<sub>Primary focus</sub>
+</td>
 
-React · TypeScript · PostgreSQL · AI
+<td align="center">
+<b>AI</b>
+<br>
+<sub>Building & exploring</sub>
+</td>
 
-An adaptive learning platform concept combining academic data, analytics, learner insights, and parent dashboards.
+<td align="center">
+<b>Security</b>
+<br>
+<sub>Developing expertise</sub>
+</td>
 
-🤖 AI Assistant
+<td align="center">
+<b>Cloud</b>
+<br>
+<sub>Azure & AWS</sub>
+</td>
 
-Python · AI APIs · n8n · REST APIs
+</tr>
+</table>
 
-An AI assistant concept exploring conversational interfaces, automation, and API-driven workflows.
+</div>
 
-⚡ LUMINA Connect
+---
 
-React · TypeScript · PostgreSQL
+## GitHub
 
-A civic-tech concept focused on improving communication around electricity outages.
+<div align="center">
 
-GitHub
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Anathi-Ntombela&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=EF93C4&text_color=808080" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anathi-Ntombela&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080" height="165"/> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anathi-Ntombela&hide_border=true&background=00000000&ring=EF93C4&fire=EF93C4&currStreakLabel=EF93C4&sideLabels=808080&dates=808080&currStreakNum=808080" width="60%" /> </div>
-Connect
-<div align="center"> <a href="https://www.linkedin.com/in/anathi-ntombela/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" /> </a> <a href="mailto:mthon@live.co.za"> <img src="https://img.shields.io/badge/Email-Contact-EF93C4?style=flat-square&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/Anathi-Ntombela"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" /> </a>
+<img src="https://github-readme-stats.vercel.app/api?username=Anathi-Ntombela&show_icons=true&hide_border=true&bg_color=00000000&title_color=EF93C4&icon_color=EF93C4&text_color=808080" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anathi-Ntombela&layout=compact&hide_border=true&bg_color=00000000&title_color=EF93C4&text_color=808080" height="165" />
+
+</div>
+
+---
+
+## Start a conversation
+
+<div align="center">
+
+<a href="https://github.com/Anathi-Ntombela">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/anathi-ntombela/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:mthon@live.co.za">Email</a>
 
 <br><br>
 
-<sub>Build with purpose. Learn continuously. Keep moving forward.</sub>
+<sub>DarkModeDev · Build with purpose. Learn continuously. Keep moving forward.</sub>
 
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:F8BBD0&height=100&section=footer" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,100:F8BBD0&height=100&section=footer" width="100%" />
+</p>
